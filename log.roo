@@ -57,3 +57,7 @@ logging setup --level INFO
 // script --file clinic.roo
 quit
 // Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-07-21 11:21:01
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-07-21 11:26:33
+persistence setup --provider HIBERNATE --database POSTGRES
+quit
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-07-21 11:26:44
